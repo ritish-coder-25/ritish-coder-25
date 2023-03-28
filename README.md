@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ritish-coder-25
+- 👋 Hi, I’m @ritish-coder-25 - RITISH KUMAR DAS
 - 👀 I’m interested in ...Data Science, Machine Learning, Internet Of Things
 - 🌱 I’m currently learning ...Data Science and Programming from Indian Institute of Technology, Madras and Electronics & Communication Engineering from Central University of Tezpur
 - 💞️ I’m looking to collaborate on ...IoT Projects and Data Science projects and even in internships
